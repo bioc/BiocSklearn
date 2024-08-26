@@ -1,0 +1,8 @@
+CHANGES IN VERSION 1.26
+-----------------------
+
+o restfulSE is deprecated.  The reference has been deleted
+from DESCRIPTION
+
+o h5py python module updated to 3.11, seemingly with no adverse effect
+
